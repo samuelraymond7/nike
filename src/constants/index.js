@@ -6,7 +6,7 @@ export const navLinks = [
     { href: "#about-us", label: "About Us" },
     { href: "#products", label: "Products" },
     { href: "#contact-us", label: "Contact Us" },
-    { href: "https://youtube.com", label: "Portofolio", target:"_blank" },
+    { href: "https://samuelraymond7.github.io/portofolio/", label: "Portofolio", target:"_blank" },
     { href: "https://www.linkedin.com/in/samuel-raymond-pranowo/", label: "LinkedIn", target:"_blank"},
     
 ];
